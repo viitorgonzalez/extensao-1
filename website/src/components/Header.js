@@ -3,19 +3,19 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   return (
-    <header className="bg-gray-500 h-20 flex items-center justify-between px-4">
-      <img src="/logo-agrodispi.jpg" alt="Logo Agrodispi" className="h-16" />
+    <header className="bg-green-900 h-20 flex items-center justify-between px-4 ">
+      <Link to="pages/HomePage.js"><img src="/logo-agrodispi.jpg" alt="Logo Agrodispi" className="h-16" /></Link>
       
       <nav>
         <ul className="flex">
           <li className="mr-6">
-            <Link to="/">Home</Link>
+            <Link to="/" className="hover:text-white font-bold transition duration-300">Home</Link>
           </li>
           <li className="mr-6">
-            <Link to="/sobre">Sobre</Link>
+            <Link to="/sobre" className="hover:text-white font-bold transition duration-300">Sobre</Link>
           </li>
           <li>
-            <Link to="/contato">Contato</Link>
+            <Link to="/contato"className="hover:text-white font-bold transition duration-300">Contato</Link>
           </li>
         </ul>
       </nav>
