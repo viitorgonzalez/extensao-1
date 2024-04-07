@@ -1,15 +1,11 @@
 import React from 'react';
 
-import Header from '../Header';
-import Footer from '../Footer';
-
 function AboutPage() {
   return (
-    <div className="flex flex-col min-h-screen">
-      <Header />
+    <div id="about" className="flex flex-col min-h-screen">
       <div className="bg-cover bg-center flex-1 flex-col items-center justify-center bg-colhedeira">
         <div className='bg-white flex items-center flex-col w-full bg-opacity-65 mx-auto '>
-          <h1 className='text-center font-bold text-4xl m-10 p-2 font-mono'>Quem é a Agrodispi?</h1>
+          <h1 className='mt-20 text-center font-bold text-4xl m-10 p-2 font-mono'>Quem é a Agrodispi?</h1>
           <div className=' w-2/3 flex flex-col font-sans text-xl'>
 
             <p className='m-3'>Existente desde meados de 1945, e antes chamada de Oliveira Irmãos, a empresa Agrodspi Peças e Serviços Agrodiesel de Pimenta LTDA,
@@ -34,7 +30,6 @@ function AboutPage() {
 
       </div>
 
-      <Footer />
     </div>
   );
 }
