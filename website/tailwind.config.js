@@ -2,7 +2,17 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        Green: '#1e6601',
+        Black: '#14141c',
+
+      },
+      backgroundImage:{
+        'colhedeira':"url('../public/colhedeira.jpg')",
+      }
+    },
+
     fontFamily: {
       'sans': ['Roboto', 'Helvetica', 'Arial', 'sans-serif'],
       'serif': ['Georgia', 'Cambria', 'Times New Roman', 'serif'],

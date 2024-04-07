@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   return (
-    <header className="bg-green-900 h-20 flex items-center justify-between px-4 ">
-      <Link to="pages/HomePage.js"><img src="/logo-agrodispi.jpg" alt="Logo Agrodispi" className="h-16" /></Link>
+    <header className="bg-Green h-20 flex items-center justify-between px-4 ">
+      <Link to="/"><img src="/logoAgrodispi.png" alt="Logo Agrodispi" className="h-16" /></Link>
       
       <nav>
         <ul className="flex">
