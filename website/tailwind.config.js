@@ -9,7 +9,8 @@ module.exports = {
 
       },
       backgroundImage:{
-        'colhedeira':"url('../public/colhedeira.jpg')",
+        'colhedeira': "url('../public/colhedeira.jpg')",
+        'BackgroundImg': "url('../public/BackgroundImg.jpg')",
       }
     },
 

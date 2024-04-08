@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <header className="h-20 flex items-center justify-between p-4 w-full fixed bg-Green">
+    <header className="h-20 flex items-center justify-between p-4 w-full fixed bg-BackgroundImg bg-no-repeat bg-cover">
       <nav className="flex items-center justify-between w-full">
         <img src="/logoAgrodispi.png" alt="Logo" className="w-20 mr-"></img>
         <ul className="flex">
