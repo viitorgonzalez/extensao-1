@@ -1,20 +1,20 @@
 import React from 'react';
 
 import Header from './components/Header'
-import Footer from './components/Footer'
-import Home from './components/Home';
+import Home from './components/Home'
+import BestSellers from './components/BestSellers';
 import Services from './components/Services';
 import About from './components/About';
-import Contact from './components/Contact';
+import Footer from './components/Footer'
 
 function App() {
   return (
     <div>
       <Header />
       <Home />
+      <BestSellers />
       <Services />
       <About />
-      <Contact />
       <Footer />
     </div>
 
