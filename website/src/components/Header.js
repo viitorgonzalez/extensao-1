@@ -51,7 +51,7 @@ function Header() {
   };
 
   return (
-    <header className="h-20 flex items-center justify-between p-4 w-full fixed bg-BackgroundImg bg-no-repeat bg-cover">
+    <header className="z-50 h-20 flex items-center justify-between p-4 w-full fixed bg-Green ">
       {isMobile ? (
         <img src="/logoAgrodispi.jpg" alt="Logo" className="w-20"></img>
       ) : (

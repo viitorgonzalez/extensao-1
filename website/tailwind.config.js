@@ -4,13 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        Green: '#1e6601',
+        Green: '#0f5729',
         Black: '#14141c',
 
       },
       backgroundImage:{
-        'BackgroundImg': "url('../public/BackgroundImg.jpg')",
-        'oficina': "url('../public/aboutPageImgs/oficina.jpg')"
+        'oficina': "url('../public/aboutPageImgs/oficina.jpg')",
       }
     },
 

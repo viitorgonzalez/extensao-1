@@ -2,12 +2,12 @@ import React from 'react';
 
 function AboutPage() {
   return (
-    <div id="about" className="flex flex-col min-h-screen">
-      <div className="bg-cover bg-center bg-oficina">
-        <div className='bg-white  w-full lg:w-2/3 bg-opacity-35 mx-auto'> 
+    <div id="about" className="flex flex-col justify-center min-h-screen bg-center bg-oficina pt-20 pb-12 bg-cover">
+      <div className="">
+        <div className='bg-white  w-full lg:w-1/2 bg-opacity-35 mx-auto pb-12  rounded-md'> 
           <h1 className='mt-0 pt-12 font-bold text-4xl m-10 p-2 font-mono text-center text-xl lg:text-4xl'>Quem é a Agrodispi?</h1>
           <div className=' w-full font-sans text-xl'>          
-          <img src="/aboutPageImgs/imagem_chave.jpg" alt="Imagem de um chave" className='w-1/2 lg:w-1/3 h-full float-right lg:ml-2 mr-8 mt-8'/> 
+          <img src="/aboutPageImgs/imagem_chave.jpg" alt="Imagem de um chave" className='w-1/2 lg:w-1/3 h-full float-right lg:ml-2 mr-8 mt-8 rounded-lg'/> 
           <div className='p-4'>
             <p className='m-3 justify-start text-sm lg:text-lg'>Existente desde meados de 1945, e antes chamada de Oliveira Irmãos, a empresa Agrodspi Peças e Serviços Agrodiesel de Pimenta LTDA,
               foi pioneira no ramo de ferraria, solda e mecânica na cidade de Pimenta/MG, tendo surgido da união de três irmãos, José Segundo de Oliveira,
@@ -17,7 +17,7 @@ function AboutPage() {
               a empresa Agrodspi foi assumida pela segunda geração da família, passando a ser comandada por José Augusto de Oliveira,
               Ailton Augusto de Oliveira, Antônio Augusto de Oliveira e Elias Augusto de Oliveira, filhos do fundador, Sr. Antônio,
               os quais hoje integram seu quadro societário.</p>
-            <img src='/aboutPageImgs/motor.jpg' alt="Imagem de um motor" className='float-left w-1/2 lg:w-1/3 h-full ml-4 mr-2 lg:mr-10 mt-4'/>
+            <img src='/aboutPageImgs/motor.jpg' alt="Imagem de um motor" className='float-left w-1/2 lg:w-1/3 h-full ml-4 mr-2 lg:mr-10 mt-4 rounded-lg'/>
             <p className='m-3 ml-4 text-sm lg:text-lg m-6'> Desde sua origem, a empresa vem especializando-se e aprimorando-se cada vez mais na área de mecânica de equipamentos a diesel,
               sistemas e equipamentos hidráulicos e parte elétrica automotiva em geral.</p>
 
