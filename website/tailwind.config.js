@@ -10,6 +10,8 @@ module.exports = {
       },
       backgroundImage:{
         'oficina': "url('../public/aboutPageImgs/oficina.jpg')",
+        'colhedeira':"url('../public/colhedeira.jpg')",
+        'trator':"url('../public/tratores.jpg')"
       }
     },
 

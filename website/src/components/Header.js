@@ -84,7 +84,7 @@ function Header() {
           className="block md:hidden focus:outline-none"
         >
           <svg
-            className="w-6 h-6"
+            className="w-6 h-6 m-0"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -111,7 +111,7 @@ function Header() {
       {menuOpen && (
         <ul
           ref={menuRef}
-          className="absolute top-24 right-0 bg-white p-4 rounded-lg shadow-lg"
+          className="mr-2 absolute top-24 right-0 bg-white p-4 rounded-lg shadow-lg"
         >
           <li
             onClick={closeMenu}
@@ -123,7 +123,7 @@ function Header() {
             onClick={closeMenu}
             className="mb-2 text-sm md:text-lg hover:text-gray-800 font-bold transition duration-300"
           >
-            <a href="#BestSellers">Mais vendidos</a>
+            <a href="#bestSellers">Mais vendidos</a>
           </li>
           <li
             onClick={closeMenu}

@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div>
+    <div className='bg-trator w-full bg-fixed bg-cover'>
       <Header />
       <Home />
       <BestSellers />
@@ -17,8 +17,6 @@ function App() {
       <About />
       <Footer />
     </div>
-
-
   );
 }
 

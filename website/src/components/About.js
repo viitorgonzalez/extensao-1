@@ -2,10 +2,9 @@ import React from 'react';
 
 function AboutPage() {
   return (
-    <div id="about" className="flex flex-col justify-center min-h-screen bg-center bg-oficina pt-20 pb-12 bg-cover">
-      <div className="">
-        <div className='bg-white  w-full lg:w-1/2 bg-opacity-35 mx-auto pb-12  rounded-md'> 
-          <h1 className='mt-0 pt-12 font-bold text-4xl m-10 p-2 font-mono text-center text-xl lg:text-4xl'>Quem é a Agrodispi?</h1>
+    <div id="about" className="flex flex-col justify-center min-h-screen pt-20 pb-12 ">
+      <p className='mt-4 font-bold text-4xl text-white flex justify-center flex-col text-center h-20 bg-Green w-full mb-16 '>Quem é a Agrodispi?</p>
+        <div className='bg-white  w-full lg:w-1/2 bg-opacity-55 mx-auto pb-12  rounded-md'> 
           <div className=' w-full font-sans text-xl'>          
           <img src="/aboutPageImgs/imagem_chave.jpg" alt="Imagem de um chave" className='w-1/2 lg:w-1/3 h-full float-right lg:ml-2 mr-8 mt-8 rounded-lg'/> 
           <div className='p-4'>
@@ -30,8 +29,6 @@ function AboutPage() {
           </div>
         </div>
       </div>
-
-    </div>
   );
 }
 
