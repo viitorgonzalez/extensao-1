@@ -33,13 +33,13 @@ function Footer() {
             <div className="flex justify-center">
               <button>
               <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/agrodspi.pimenta?igsh=MThsMXp5dHd6eWRvZg==">
-                <img src="../iconSocialMedia/instagram.png" alt="Instagram icon"></img>
+                <img src="../IconSocialMedia/instagram.png" alt="Instagram icon"></img>
               </a>
               </button>
 
              <button>
               <a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send?phone=553733241406&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20na%20loja.">
-                <img src="../iconSocialMedia/whatsapp.png" alt="Whatsapp icon"></img>
+                <img src="../IconSocialMedia/whatsapp.png" alt="Whatsapp icon"></img>
               </a>
               </button>
             </div>
