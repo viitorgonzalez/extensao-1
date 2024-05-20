@@ -7,7 +7,6 @@ module.exports = {
         Green: '#0f5729',
       },
       backgroundImage:{
-        'oficina': "url('../public/aboutPageImgs/oficina.jpg')",
         'backgroundImg':"url('../public/backgroundImg.jpg')"
       }
     },

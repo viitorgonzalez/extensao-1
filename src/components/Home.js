@@ -50,13 +50,13 @@ const Home = () => {
     <div className='flex' id="home">
       <Slider {...settings} className='w-full lg:w-2/3 mt-20 lg:mt-24 flex items-center justify-center ml-auto mr-auto'>
         <div>
-          <img src="../banner70anos.png" alt="Banner 70 anos" />
+          <img src="../carrouselBanners/banner70anos.png" alt="Banner 70 anos" />
         </div>
         <div>
-          <img src="../horario.png" alt="Horário" />
+          <img src="../carrouselBanners/horario.png" alt="Horário" />
         </div>
         <div>
-          <img src="../bannerred.png" alt="Banner Red" />
+          <img src="../carrouselBanners/bannerred.png" alt="Banner Red" />
         </div>
       </Slider>
     </div>
