@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className='bg-backgroundImg w-full bg-fixed bg-cover'>
+    <div className='bg-background w-full bg-fixed bg-cover'>
       <Header />
       <Home />
       <BestSellers />

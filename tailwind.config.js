@@ -7,7 +7,7 @@ module.exports = {
         Green: '#0f5729',
       },
       backgroundImage:{
-        'backgroundImg':"url('../public/backgroundImg.jpg')"
+        'background': "url('../public/background.jpg')",
       }
     },
     fontFamily: {
