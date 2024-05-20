@@ -11,7 +11,7 @@ const CustomPrevArrow = (props) => {
       className="absolute z-30 top-1/2 left-0 transform -translate-y-1/2 w-10 h-10 flex justify-center items-center "
       onClick={onClick}
     >
-      <img src="../IconCarrossel/seta-esquerda.png" alt="Seta Esquerda" />
+      <img src="../arrowsIconsCarrossel/seta-esquerda.png" alt="Seta Esquerda" />
     </button>
   );
 };
@@ -23,7 +23,7 @@ const CustomNextArrow = (props) => {
       className=" absolute top-1/2 right-0 transform -translate-y-1/2  w-10 h-10 flex justify-center items-center"
       onClick={onClick}
     >
-      <img src="../IconCarrossel/seta-direita.png" alt="Seta Direita" />
+      <img src="../arrowsIconsCarrossel/seta-direita.png" alt="Seta Direita" />
     </button>
   );
 };

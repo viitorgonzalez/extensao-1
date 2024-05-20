@@ -3,7 +3,7 @@ import React from 'react';
 function AboutPage() {
   return (
     <div id="about" className="flex flex-col justify-center min-h-screen pt-20 pb-12 ">
-      <p className='mt-4 font-bold text-4xl text-white flex justify-center flex-col text-center h-20 bg-Green w-full mb-16 '>Quem é a Agrodispi?</p>
+      <p className='mt-4 font-bold text-4xl text-white flex justify-center flex-col text-center h-20 bg-Green w-full mb-16 '>Quem é a Agrodspi?</p>
         <div className='bg-white  w-full lg:w-1/2 bg-opacity-55 mx-auto pb-12  rounded-md'> 
           <div className=' w-full font-sans text-xl'>          
           <img src="/aboutPageImgs/imagem_chave.jpg" alt="Imagem de um chave" className='w-1/2 lg:w-1/3 h-full float-right lg:ml-2 mr-8 mt-8 rounded-lg'/> 

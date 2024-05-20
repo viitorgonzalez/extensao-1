@@ -14,7 +14,7 @@ function Services() {
             <div className="flex flex-col items-center bg-white bg-opacity-65 rounded-xl p-2">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/1-motor.png"
+                      src="/serviceIcons/1-motor.png"
                       alt="Motor"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -27,7 +27,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/2-embreagem.png"
+                      src="/serviceIcons/2-embreagem.png"
                       alt="Embreagem"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -40,7 +40,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/3-caixa-de-cambio.png"
+                      src="/serviceIcons/3-caixa-de-cambio.png"
                       alt="Caixa de câmbio"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -53,7 +53,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/pecas-de-reposicao.png"
+                      src="/serviceIcons/pecas-de-reposicao.png"
                       alt="Motor"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -66,7 +66,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/5-suspensao.png"
+                      src="/serviceIcons/5-suspensao.png"
                       alt="Suspensão"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -79,7 +79,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/6-freios.png"
+                      src="/serviceIcons/6-freios.png"
                       alt="Freios"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -92,7 +92,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/7-tracao.png"
+                      src="/serviceIcons/7-tracao.png"
                       alt="Eixo de comando"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -105,7 +105,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/8-hidraulico.png"
+                      src="/serviceIcons/8-hidraulico.png"
                       alt="Reduções finais
                       "
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
@@ -123,7 +123,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/9-pistoes.png"
+                      src="/serviceIcons/9-pistoes.png"
                       alt="Pistão"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -136,7 +136,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/10-valvula-hidraulica.png"
+                      src="/serviceIcons/10-valvula-hidraulica.png"
                       alt="Válvula hidráulica"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -149,7 +149,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/11-comando-hidraulico.png"
+                      src="/serviceIcons/11-comando-hidraulico.png"
                       alt="Comando hidráulico"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -162,7 +162,7 @@ function Services() {
               <div className="flex flex-col items-center justify-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/12-mangueira-de-agua.png"
+                      src="/serviceIcons/12-mangueira-de-agua.png"
                       alt="Mangueira"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -179,7 +179,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/13-alternador.png"
+                      src="/serviceIcons/13-alternador.png"
                       alt="Alternador"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -191,7 +191,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/14-motor-de-partida.png"
+                      src="/serviceIcons/14-motor-de-partida.png"
                       alt="Motor de partida"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -203,7 +203,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/15-fios.png"
+                      src="/serviceIcons/15-fios.png"
                       alt="Chicote elétrico"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />
@@ -215,7 +215,7 @@ function Services() {
               <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
-                      src="/icons/valvula.png"
+                      src="/serviceIcons/valvula.png"
                       alt="Válvulas elétricas"
                       className="p-3 border-2 border-black rounded-full  w-32 h-32 lg:w-72 lg:h-72"
                     />

@@ -53,10 +53,10 @@ function Header() {
   return (
     <header className="z-50 h-20 flex items-center justify-between p-4 w-full fixed bg-Green ">
       {isMobile ? (
-        <img src="/logoAgrodispi.jpg" alt="Logo" className="w-20"></img>
+        <img src="/logoAgrodspi.jpg" alt="Logo" className="w-20"></img>
       ) : (
         <nav className="flex items-center justify-between w-full">
-          <img src="/logoAgrodispi.jpg" alt="Logo" className="w-20 mr-"></img>
+          <img src="/logoAgrodspi.jpg" alt="Logo" className="w-20 mr-"></img>
           <ul className="flex">
             <li className="mr-6 hover:text-white font-bold transition duration-300">
               <a href="#home">Home</a>

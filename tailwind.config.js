@@ -5,16 +5,12 @@ module.exports = {
     extend: {
       colors: {
         Green: '#0f5729',
-        Black: '#14141c',
-
       },
       backgroundImage:{
         'oficina': "url('../public/aboutPageImgs/oficina.jpg')",
-        'colhedeira':"url('../public/colhedeira.jpg')",
-        'trator':"url('../public/tratores.jpg')"
+        'backgroundImg':"url('../public/backgroundImg.jpg')"
       }
     },
-
     fontFamily: {
       'sans': ['Roboto', 'Helvetica', 'Arial', 'sans-serif'],
       'serif': ['Georgia', 'Cambria', 'Times New Roman', 'serif'],

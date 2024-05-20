@@ -28,7 +28,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/2-CorreiasAutomotivas.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 2"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -44,7 +44,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/3-Rolamentos.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 3"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -60,7 +60,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/4-RetentorArca.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 4"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                     />
                 </div>
@@ -75,7 +75,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/5-MancaisGBR.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 5"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -90,7 +90,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/6-BateriaMoura.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 6"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -105,7 +105,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/7-LinhaOrbioquimica.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 7"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -120,7 +120,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/8-FiltrosdeareCombustivelTecfilMannFilterDelphiParker.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 8"
                     className="w-32 h-28 md:h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -135,7 +135,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/9-OleosShelleLubrax.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 9"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -150,7 +150,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/10-DiscoseEmbreagensLUK.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 10"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -165,7 +165,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/11-ReparoHidraulicoAPC.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 11"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
@@ -180,7 +180,7 @@ function BestSellers() {
                 <div className="img-container overflow-hidden pt-2 pb-2">
                   <img
                     src="/maisVendidosImgs/12-TerminaleCruzetaCardanAemco.png"
-                    alt="Imagem Mais Vendida 1"
+                    alt="Imagem Mais Vendida 12"
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
