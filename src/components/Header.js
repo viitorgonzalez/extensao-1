@@ -62,7 +62,7 @@ function Header() {
               <a href="#home">Home</a>
             </li>
             <li className="mr-6 hover:text-white font-bold transition duration-300">
-              <a href="#bestSellers">Mais vendidos</a>
+              <a href="#mais-vendidos">Mais vendidos</a>
             </li>
             <li className="mr-6 hover:text-white font-bold transition duration-300">
               <a href="#services">Serviços</a>

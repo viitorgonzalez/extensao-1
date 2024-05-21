@@ -2,7 +2,7 @@ import React from "react";
 
 function BestSellers() {
   return (
-    <div id="bestSellers" className="min-h-screen"  >
+    <div id="mais-vendidos" className="min-h-screen"  >
       <div className="flex-1 flex-col flex items-center">
         <p className=" mt-24 lg:mt-24 font-bold text-4xl text-white flex justify-center flex-col text-center h-20 bg-Green w-full">Mais vendidos</p>
         <div className="rounded-lg container mx-auto p-5 my-10 bg-green">
@@ -109,7 +109,7 @@ function BestSellers() {
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
-                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Linha Orbioquimica</h2> 
+                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Linha Orbi química</h2> 
                 <a href="https://api.whatsapp.com/send?phone=553733241406&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20na%20loja." target="_blanc"><button className="py-2 px-6 bg-Green border-2 border-Green rounded-lg 
                   hover:bg-Green-dark hover:border-Green-dark hover:text-white 
                   hover:scale-105 transition duration-300">Ver produto</button></a>
@@ -124,7 +124,7 @@ function BestSellers() {
                     className="w-32 h-28 md:h-32 lg:w-72 lg:h-72"
                   />
                 </div>
-                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Filtros de ar e Combustivel</h2> 
+                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Filtros de ar e Combustível</h2> 
                 <a href="https://api.whatsapp.com/send?phone=553733241406&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20na%20loja." target="_blanc"><button className="py-2 px-6 bg-Green border-2 border-Green rounded-lg 
                   hover:bg-Green-dark hover:border-Green-dark hover:text-white 
                   hover:scale-105 transition duration-300">Ver produto</button></a>
@@ -139,7 +139,7 @@ function BestSellers() {
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
-                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Oleos Shell e Lubrax</h2> 
+                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Óleos Shell e Lubrax</h2> 
                 <a href="https://api.whatsapp.com/send?phone=553733241406&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20na%20loja." target="_blanc"><button className="py-2 px-6 bg-Green border-2 border-Green rounded-lg 
                   hover:bg-Green-dark hover:border-Green-dark hover:text-white 
                   hover:scale-105 transition duration-300">Ver produto</button></a>
@@ -169,7 +169,7 @@ function BestSellers() {
                     className="w-32 h-32 lg:w-72 lg:h-72"
                   />
                 </div>
-                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Reparo Hidraulico APC</h2> 
+                <h2 className="mb-2 text-Green text-sm lg:text-lg font-bold mb-0 pt-2 text-center">Reparo Hidráulico APC</h2> 
                 <a href="https://api.whatsapp.com/send?phone=553733241406&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20na%20loja." target="_blanc"><button className="py-2 px-6 bg-Green border-2 border-Green rounded-lg 
                   hover:bg-Green-dark hover:border-Green-dark hover:text-white 
                   hover:scale-105 transition duration-300">Ver produto</button></a>

@@ -159,7 +159,7 @@ function Services() {
               </div>
 
               {/* Div 12*/}
-              <div className="flex flex-col items-center justify-center bg-white p-2 bg-opacity-65 rounded-xl">
+              <div className="flex flex-col items-center bg-white p-2 bg-opacity-65 rounded-xl">
                   <div className=" img-container overflow-hidden pt-2 pb-2">
                     <img 
                       src="/serviceIcons/12-mangueira-de-agua.png"
