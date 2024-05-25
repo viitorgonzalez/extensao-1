@@ -9,10 +9,13 @@ function Footer() {
         {/* contato */}
         <div className="text-center">
           <h4 className="font-bold pb-2">Contato</h4>
-              <p>
-                <strong>Telefone / Whatsapp:</strong> <a href="tel:+550153733241406">(37) 3324-1406</a>
-              </p>
-            <p>
+            <button>
+            <a href="tel:+550153733241406" className="flex items-center justify-center space-x-2">
+              <img src="../iconSocialMedia/telefone-tocando.png" alt="celular" className="w-12 h-12" />
+              <span>(37) 3324-1406</span>
+            </a>
+            </button>
+            <p className="mt-2">
               <strong>Email:</strong> agrodieselpecas@hotmail.com
             </p>
         </div>
@@ -20,11 +23,12 @@ function Footer() {
         {/* endereço */}
         <div className="text-center">
         <h4 className="font-bold">Endereço</h4>
-          <p>
+            <button>
             <a href={googleMapsUrl} target="_blank" rel="noopener noreferrer">
+              <img src="../iconSocialMedia/mapa.png" alt="Google maps" className="w-12 h-12 mx-auto mb-2"></img>
               Avenida Jair Leite, 675, Centro, Pimenta/MG CEP 35585-000
             </a>
-          </p>
+            </button>
         </div>
 
         {/* redes sociais */}
