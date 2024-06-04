@@ -11,7 +11,7 @@ function Footer() {
           <h4 className="font-bold pb-2">Contato</h4>
             <button>
             <a href="tel:+550153733241406" className="flex items-center justify-center space-x-2">
-              <img src="../IconSocialMedia/telefone-tocando.png" alt="celular" className="w-12 h-12" />
+              <img src="../IconSocialMedia/telefone-tocando.png" alt="celular" className="w-5 h-5" />
               <span>(37) 3324-1406</span>
             </a>
             </button>
