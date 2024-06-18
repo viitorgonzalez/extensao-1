@@ -123,7 +123,7 @@ function Header() {
             onClick={closeMenu}
             className="mb-2 text-sm md:text-lg hover:text-gray-800 font-bold transition duration-300"
           >
-            <a href="#bestSellers">Mais vendidos</a>
+            <a href="#mais-vendidos">Mais vendidos</a>
           </li>
           <li
             onClick={closeMenu}
